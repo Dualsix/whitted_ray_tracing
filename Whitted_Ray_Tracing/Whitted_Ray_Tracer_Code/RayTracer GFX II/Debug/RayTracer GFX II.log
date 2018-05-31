@@ -1,0 +1,5 @@
+﻿  Raytracer.cpp
+c:\users\dualsix\desktop\whitted_ray_tracer_code\raytracer gfx ii\raytracer.cpp(165): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\dualsix\desktop\whitted_ray_tracer_code\raytracer gfx ii\raytracer.cpp(172): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  RayTracer GFX II.vcxproj -> C:\Users\Dualsix\Desktop\Whitted_Ray_Tracer_Code\Debug\RayTracer GFX II.exe
+  RayTracer GFX II.vcxproj -> C:\Users\Dualsix\Desktop\Whitted_Ray_Tracer_Code\Debug\RayTracer GFX II.pdb (Full PDB)
